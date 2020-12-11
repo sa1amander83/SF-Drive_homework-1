@@ -1,0 +1,137 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+}
+.header a{
+    margin-left: 40px;
+}
+.header-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.header-right-nav a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #1B1B1B;
+    margin: 0px 30px;
+}
+.header-right-btn{
+    font-size: 16px;
+    line-height: 19px;
+    color: #1B1B1B;
+    margin: 0px 40px;
+    padding: 5px 20px;
+}
+
+.main{
+    padding: 120px 230px;
+}
+.main-img{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 64px;
+    line-height: 120%;
+    text-align: center;
+    color: #1B1B1B;
+}
+p{
+    font-size: 24px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #1B1B1B;
+}
+h2{
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #1B1B1B;
+}
+.main-contacts{
+    margin-top: 160px;
+    background-color: #F7F9FB;
+}
+.main-contacts-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.main-contacts-content-email{
+    border-right: 1px solid #C8C8CF;
+    padding-right: 70px;
+}
+.main-contacts-content-phone{
+    padding-left: 70px;
+}
+.main-contacts-content-email-text{
+    font-size: 14px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #4F4F4F;
+    margin-bottom: 5px;
+}
+.main-contacts-content-email-email{
+    font-size: 20px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #000000;
+    margin-top: 0px;
+}
+.main-contacts-content-phone-text{
+    font-size: 14px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #4F4F4F;
+    margin-bottom: 5px;
+}
+.main-contacts-content-phone-phone{
+    font-size: 20px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #000000;
+    margin-top: 0px;
+}
+.main-team{
+    margin-top: 180px;
+}
+.main-team h2{
+    margin-bottom: 55px;
+}
+.main-team-names-first{
+    display: flex;
+    justify-content: center;
+}
+.main-team-names-first div{
+    margin: 0px 40px;
+}
+.main-team-names-second div{
+    margin: 0px 40px;
+}
+
+
+
+.main-team-names-second{
+    display: flex;
+    justify-content: center;
+}
+
+
+.team-name{
+    font-size: 20px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #000000; 
+    margin-bottom: 8px;
+}
+.team-profession{
+    font-size: 14px;
+    line-height: 147.3%;
+    text-align: center;
+    color: #828282;
+    margin-top: 0px;
+}
